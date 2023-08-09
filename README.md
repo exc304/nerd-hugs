@@ -1,8 +1,8 @@
 ### Embrace modular harmony, unit test your code's dependencies
 ----------------
 
-Welcome to `nerd-hugs`! 
-The mission? To simplify the definition and enforcement of dependencies, all while spreading the joy of clean, organized code. Whether you're a seasoned code whisperer 🧙‍♀️ or a budding enthusiast, this repo invites you to explore the joy of intentional design and tidy structure.
+Welcome to `nerd-hugs`!  
+  The mission? To simplify the definition and enforcement of dependencies, all while spreading the joy of clean, organized code. Whether you're a seasoned code whisperer 🧙‍♀️ or a budding enthusiast, this repo invites you to explore the joy of intentional design and tidy structure.
 
 What does it do?
 -------
