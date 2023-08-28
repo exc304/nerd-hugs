@@ -33,7 +33,7 @@ Getting Started
 ---
 Imagine an application called `sparkle` with a package structure like so:  
 
-    blizen.ports.gateway
+    sparkle.ports.gateway
     sparkle.ports.db
     sparkle.ports.api
 
